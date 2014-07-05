@@ -1,0 +1,17 @@
+{
+    "name": "wujingke/yef",
+    "description": "the Web Framework",
+    "type": "framework",
+    "keywords": ["framework","ORM"],
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "wujingke",
+            "email": "laow3721@vip.qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev"
+}
